@@ -1,0 +1,10 @@
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\bin\Debug\maioroumenor.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\bin\Debug\maioroumenor.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\bin\Debug\maioroumenor.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\obj\Debug\maioroumenor.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\obj\Debug\maioroumenor.frmValorMaiorOuMenor.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\obj\Debug\maioroumenor.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\obj\Debug\maioroumenor.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\obj\Debug\maioroumenor.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\obj\Debug\maioroumenor.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\maioroumenor\obj\Debug\maioroumenor.pdb
