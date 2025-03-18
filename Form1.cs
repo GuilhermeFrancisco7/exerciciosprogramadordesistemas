@@ -19,27 +19,35 @@ namespace maioroumenor
 
         private void btnEnviar_Click(object sender, EventArgs e)
         {
-            int valor = int.Parse(textDigiteUmValor.Text);
+            string texto = textDigiteUmValor.Text;
+            bool sucess = int.TryParse(texto, out int numero);
 
-            if(valor == 10)
+            if (sucess)
             {
-                MessageBox.Show("Valor Igual a 10!",
-                                 "Verificando"
-                                 );
-            }
-            else if (valor > 10)
-            {
-                MessageBox.Show("Valor maior que 10!",
-                                 "Verificando"
-                                 );
+                if (numero > 10)
+                {
+                    MessageBox.Show($"O Número {numero} é Maior que 10!");
+                }
+
+                else if (numero < 10)
+                {
+                    MessageBox.Show($"O Número {numero} é Menor que 10!");
+                }
+
+                else
+                {
+                    MessageBox.Show($" O número digitado é igual a 10!");
+                }
+
             }
             else
             {
-                MessageBox.Show("Valor menor que 10!",
-                                    "Verificando"
-                                    );
-
+                MessageBox.Show("Você digitou Letras! ",
+                    "digite somente Números!",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning);
             }
         }
+
     }
 }
