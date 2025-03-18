@@ -39,7 +39,7 @@ namespace maioroumenor
             this.textDigiteUmValor.BackColor = System.Drawing.Color.PaleGreen;
             this.textDigiteUmValor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.textDigiteUmValor.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textDigiteUmValor.Location = new System.Drawing.Point(71, 72);
+            this.textDigiteUmValor.Location = new System.Drawing.Point(130, 82);
             this.textDigiteUmValor.Name = "textDigiteUmValor";
             this.textDigiteUmValor.Size = new System.Drawing.Size(196, 31);
             this.textDigiteUmValor.TabIndex = 0;
@@ -48,7 +48,7 @@ namespace maioroumenor
             // 
             this.lblDigiteValor.AutoSize = true;
             this.lblDigiteValor.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDigiteValor.Location = new System.Drawing.Point(67, 48);
+            this.lblDigiteValor.Location = new System.Drawing.Point(157, 44);
             this.lblDigiteValor.Name = "lblDigiteValor";
             this.lblDigiteValor.Size = new System.Drawing.Size(137, 21);
             this.lblDigiteValor.TabIndex = 1;
@@ -59,7 +59,7 @@ namespace maioroumenor
             this.btnEnviar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.btnEnviar.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEnviar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnEnviar.Location = new System.Drawing.Point(119, 144);
+            this.btnEnviar.Location = new System.Drawing.Point(185, 144);
             this.btnEnviar.Name = "btnEnviar";
             this.btnEnviar.Size = new System.Drawing.Size(85, 30);
             this.btnEnviar.TabIndex = 2;
