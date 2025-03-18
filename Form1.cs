@@ -26,7 +26,7 @@ namespace maioroumenor
             {
                 if (numero > 10)
                 {
-                    MessageBox.Show($"O Número {numero} é Maior que 10!");
+                    MessageBox.Show($"O Número {numero} é Maior que 10!", "Calculando", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
 
                 else if (numero < 10)

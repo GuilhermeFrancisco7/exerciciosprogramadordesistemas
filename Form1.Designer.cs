@@ -32,6 +32,7 @@ namespace maioroumenor
             this.textDigiteUmValor = new System.Windows.Forms.TextBox();
             this.lblDigiteValor = new System.Windows.Forms.Label();
             this.btnEnviar = new System.Windows.Forms.Button();
+            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // textDigiteUmValor
@@ -67,11 +68,19 @@ namespace maioroumenor
             this.btnEnviar.UseVisualStyleBackColor = false;
             this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
+            // maskedTextBox1
+            // 
+            this.maskedTextBox1.Location = new System.Drawing.Point(102, 232);
+            this.maskedTextBox1.Name = "maskedTextBox1";
+            this.maskedTextBox1.Size = new System.Drawing.Size(150, 20);
+            this.maskedTextBox1.TabIndex = 3;
+            // 
             // frmValorMaiorOuMenor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(467, 284);
+            this.Controls.Add(this.maskedTextBox1);
             this.Controls.Add(this.btnEnviar);
             this.Controls.Add(this.lblDigiteValor);
             this.Controls.Add(this.textDigiteUmValor);
@@ -87,6 +96,7 @@ namespace maioroumenor
         private System.Windows.Forms.TextBox textDigiteUmValor;
         private System.Windows.Forms.Label lblDigiteValor;
         private System.Windows.Forms.Button btnEnviar;
+        private System.Windows.Forms.MaskedTextBox maskedTextBox1;
     }
 }
 
