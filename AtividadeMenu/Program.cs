@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace maioroumenor
+namespace AtividadeMenu
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace maioroumenor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmValorMaiorOuMenor());
+            Application.Run(new Form1());
         }
     }
 }

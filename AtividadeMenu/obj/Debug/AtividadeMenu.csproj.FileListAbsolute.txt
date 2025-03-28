@@ -1,0 +1,10 @@
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\bin\Debug\AtividadeMenu.exe.config
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\bin\Debug\AtividadeMenu.exe
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\bin\Debug\AtividadeMenu.pdb
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\obj\Debug\AtividadeMenu.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\obj\Debug\AtividadeMenu.Form1.resources
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\obj\Debug\AtividadeMenu.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\obj\Debug\AtividadeMenu.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\obj\Debug\AtividadeMenu.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\obj\Debug\AtividadeMenu.exe
+C:\Users\guilherme.falmeida7\source\ExerciciosProgramadordeSistemas\AtividadeMenu\obj\Debug\AtividadeMenu.pdb
